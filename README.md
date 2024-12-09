@@ -5,10 +5,11 @@
 <h3 align='center'>
   A passionate Frontend Developer from Canada
 </h3>
-<div align='center'>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/tree/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/tree/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+<div align='center'>
 <img src="https://img.shields.io/github/issues-pr/nftknight/uniswapv3-code" alt="Pull Requests Badge"/> <img src="https://img.shields.io/github/issues/nftknight/uniswapv3-code" alt="Issues Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nftknight/uniswapv3-code?color=2b9348"> <img src="https://img.shields.io/github/license/nftknight/ReactNative-Expo-OAuth?color=2b9348" alt="License Badge"/> <img src="https://komarev.com/ghpvc/?username=NFTknight&label=Profile%20views&color=0e75b6&style=flat" alt="NFTknight" />
 </div>
 
