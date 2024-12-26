@@ -5,7 +5,7 @@
 <h3 align='center'>
   A passionate Frontend Developer from Canada
 </h3>
-[![Banner Image](https://raw.githubusercontent.com/bravetiger0408/bravetiger0408/background.svg)]
+![Banner Image](https://raw.githubusercontent.com/bravetiger0408/bravetiger0408/background.svg)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
