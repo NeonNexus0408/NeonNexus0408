@@ -1,10 +1,10 @@
 ![Banner Image](https://raw.githubusercontent.com/bravetiger0408/bravetiger0408/master/background.svg)
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Tiger.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;color=3F00F7&random=true&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Tiger.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
 <h3 align='center'>
-  A passionate Frontend Developer from Canada
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=9years+Experience+...;Certified+in+over+50+Skills...;built+over+100+Projects...">
 </h3>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
