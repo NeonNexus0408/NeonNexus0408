@@ -1,8 +1,8 @@
 ![Banner Image](https://raw.githubusercontent.com/bravetiger0408/bravetiger0408/master/background.svg)
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;color=3F00F7&random=true&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Tiger.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=A020F0&amp;size=28&amp;center=false&amp;color=3F00F7&random=true&width=700&lines=%E2%9C%A8+Let’s+build+a+ +brighter.+limitless+world+together!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
-
+  
 <h3 align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=9years+Experience+...;Certified+in+over+50+Skills...;built+over+100+Projects...">
 </h3>
