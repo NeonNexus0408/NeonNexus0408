@@ -115,4 +115,4 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
 
-<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=bravetiger0408&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" /></div>
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=neonnexus0408&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" /></div>
