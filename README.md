@@ -1,6 +1,6 @@
 ![Banner Image](https://raw.githubusercontent.com/bravetiger0408/bravetiger0408/master/background.svg)
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=A020F0&amp;size=28&amp;center=false&amp;color=3F00F7&random=true&width=700&lines=%E2%9C%A8+Let’s+build+a+ +brighter.+limitless+world+together!+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial&amp;color=A020F0&amp;size=28&amp;center=false&amp;color=fff000&random=true&weight=600&width=700&lines=%E2%9C%A8+Let’s+build+a+ +brighter.+limitless+world+together!+%E2%9C%A8" alt="Typing SVG" />
 </h1>
   
 <h3 align='center'>
@@ -23,7 +23,7 @@
 
 🔎 I’m actively looking to collaborate on **Open source Project**
 
-💻 Portfolio Project **[BraveTiger - Portfolio](https://chetannada.netlify.app/)**
+💻 Portfolio Project **[NeonNexus - Portfolio](https://chetannada.netlify.app/)**
 
 💬 Ask me about **Frontend Development, MERN Full Stack Development, Data Structure and Algorithm**
 
