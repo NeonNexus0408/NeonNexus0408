@@ -23,7 +23,7 @@
 
 🔎 I’m actively looking to collaborate on **Open source Project**
 
-💻 Portfolio Project **[NeonNexus - Portfolio](https://neonnexus-git-main-neonnexus-projects.vercel.app/)**
+💻 Portfolio Project **[NeonNexus - Portfolio](https://neonnexus-d1qo.vercel.app/)**
 
 💬 Ask me about **Frontend Development, MERN Full Stack Development, Data Structure and Algorithm**
 
