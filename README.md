@@ -17,13 +17,13 @@
 
 <br><br>
 
-🔭 I’m currently working on **FVR Phase 2 Project** using React.js, Next.js and Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+🔭 I’m currently working as a freelancer and working with a US company<img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
-🏫 I’m currently learning **MERN Full Stack Development**
+🏫 I’m currently learning cutting-edge technologies such as **Machine Learning**
 
 🔎 I’m actively looking to collaborate on **Open source Project**
 
-💬 Ask me about **Frontend Development, MERN Full Stack Development, Data Structure and Algorithm**
+💬 Ask me about **Frontend Development, MERN Full Stack Development, Data Structure and Algorithm, AI Technologies**
 
 💗 Love to talk about **Research and Innovation!**
 
