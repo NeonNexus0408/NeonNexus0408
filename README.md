@@ -1,6 +1,6 @@
 ![Banner Image](https://raw.githubusercontent.com/bravetiger0408/bravetiger0408/master/background.svg)
 <h1 align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&amp;color=A020F0&amp;size=28&amp;center=false&amp;color=fff000&random=true&weight=600&width=700&lines=%E2%9C%A8+Let’s+build+a+ +brighter.+limitless+world+together!+%E2%9C%A8" alt="Typing SVG" />
+AI & Full Stack Developer
 </h1>
   
 <h3 align='center'>
