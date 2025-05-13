@@ -171,16 +171,16 @@ AI & Full Stack Developer
 ## 🏆 Trophies:
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=chetannada&row=4&theme=onedark&no-frame=true&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" />
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=neonnexus0408&row=4&theme=onedark&no-frame=true&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" />
 
 ## <img style="vertical-align: sub" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=22&lines=%F0%9F%92%96" alt="Typing SVG" /> Popular Repository:
 
 <div align="center"><a href="https://github.com/chetannada/Namaste-React">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetannada&repo=Namaste-React&cache_seconds=86400&theme=radical" alt="Namaste React Repository" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neonnexus0408&repo=Namaste-React&cache_seconds=86400&theme=radical" alt="Namaste React Repository" />
 </a></div>
 <br/>
 <div align="center"><a href="https://github.com/chetannada/Javascript-Practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetannada&repo=Javascript-Practice&cache_seconds=86400&theme=radical" alt="Javascript-Practice Repository" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neonnexus0408&repo=Javascript-Practice&cache_seconds=86400&theme=radical" alt="Javascript-Practice Repository" />
 </a></div>
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
